@@ -64,3 +64,6 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.5'
   gem "factory_bot_rails"
 end
+
+gem 'jquery-rails'
+
